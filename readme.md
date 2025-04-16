@@ -13,8 +13,8 @@ This project demonstrates parallel computation by estimating π using the Monte 
 1. **Clone the repository**
 
    ```bash
-   git clone <your-repo-url>
-   cd <repo-name>
+   git clone https://github.com/nexxeln/parallel-pi
+   cd parallel-pi
    ```
 
 2. **Run the Rust program**
